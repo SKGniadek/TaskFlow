@@ -18,4 +18,12 @@ Pozwala dodawać, edytować, usuwać oraz organizować zadania według statusu.
 - [TypeScript](https://www.typescriptlang.org/)
 - [AsyncStorage](https://github.com/react-native-async-storage/async-storage)
 
+##  Screenshots
+
+### Ekran główny
+![Ekran główny](screenshots/1S.png)
+
+### Ekran dodawania zadania
+![Ekran dodawania](screenshots/2S.png)
+
 
