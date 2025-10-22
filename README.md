@@ -2,10 +2,10 @@
 Pozwala dodawać, edytować, usuwać oraz organizować zadania według statusu.
 
 ## Funkcje 
--Dodawanie nowych zadań z tytułem, opisem i priorytetem 
--Edytowanie istniejących zadań
--Możliwość usunięcia zadania po zakończeniu
--Podział zadań na kolumny:
+**-Dodawanie nowych zadań z tytułem, opisem i priorytetem **
+**-Edytowanie istniejących zadań**
+**-Możliwość usunięcia zadania po zakończeniu**
+**-Podział zadań na kolumny:**
   - **To Do**  
   - **In Progress**  
   - **Done**
