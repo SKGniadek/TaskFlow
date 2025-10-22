@@ -21,9 +21,9 @@ Pozwala dodawać, edytować, usuwać oraz organizować zadania według statusu.
 ##  Screenshots
 
 ### Ekran główny
-![Ekran główny](screenshots/1S.png)
+<img src="screenshots/1S.png" alt="Ekran główny" width="300"/>
 
 ### Ekran dodawania zadania
-![Ekran dodawania](screenshots/2S.png)
+<img src="screenshots/2S.png" alt="Ekran dodawania" width="300"/>
 
 
