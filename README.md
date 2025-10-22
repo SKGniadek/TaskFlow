@@ -9,7 +9,7 @@ Pozwala dodawać, edytować, usuwać oraz organizować zadania według statusu.
   - **To Do**  
   - **In Progress**  
   - **Done**
--Zapisywanie zadań w pamięci urządzenia dzięki `AsyncStorage`
+  - Zapisywanie zadań w pamięci urządzenia dzięki `AsyncStorage`
 
 ## Technologie
 
